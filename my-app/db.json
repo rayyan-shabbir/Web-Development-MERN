@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Play Cricket",
+      "day": "Daily 5 o' Clock",
+      "reminder": true
+    },
+    {
+      "title": "Pray 5 Times",
+      "day": "Daily",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "title": "Go to Gym",
+      "day": "Daily at 6",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
